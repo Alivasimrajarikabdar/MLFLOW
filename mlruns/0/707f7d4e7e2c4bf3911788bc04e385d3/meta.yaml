@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Velocity/MLFLOW1/mlruns/0/707f7d4e7e2c4bf3911788bc04e385d3/artifacts
+end_time: 1699544790722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 707f7d4e7e2c4bf3911788bc04e385d3
+run_name: thundering-lamb-958
+run_uuid: 707f7d4e7e2c4bf3911788bc04e385d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699544781096
+status: 3
+tags: []
+user_id: Asma

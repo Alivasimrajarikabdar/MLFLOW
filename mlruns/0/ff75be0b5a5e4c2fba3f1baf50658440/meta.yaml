@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Velocity/MLFLOW1/mlruns/0/ff75be0b5a5e4c2fba3f1baf50658440/artifacts
+end_time: 1699544460485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff75be0b5a5e4c2fba3f1baf50658440
+run_name: unruly-shrimp-479
+run_uuid: ff75be0b5a5e4c2fba3f1baf50658440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699544451525
+status: 3
+tags: []
+user_id: Asma

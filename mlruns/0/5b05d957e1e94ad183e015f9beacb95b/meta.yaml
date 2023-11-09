@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Velocity/MLFLOW1/mlruns/0/5b05d957e1e94ad183e015f9beacb95b/artifacts
+end_time: 1699544666457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b05d957e1e94ad183e015f9beacb95b
+run_name: unleashed-bee-426
+run_uuid: 5b05d957e1e94ad183e015f9beacb95b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699544656007
+status: 3
+tags: []
+user_id: Asma

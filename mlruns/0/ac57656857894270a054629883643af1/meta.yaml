@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Velocity/MLFLOW1/mlruns/0/ac57656857894270a054629883643af1/artifacts
+end_time: 1699544742927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac57656857894270a054629883643af1
+run_name: stately-snake-865
+run_uuid: ac57656857894270a054629883643af1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699544733172
+status: 3
+tags: []
+user_id: Asma

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Velocity/MLFLOW1/mlruns/0/7b227adb491d4ff585026ba6ff4f3bed/artifacts
+end_time: 1699544391936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b227adb491d4ff585026ba6ff4f3bed
+run_name: fearless-shoat-757
+run_uuid: 7b227adb491d4ff585026ba6ff4f3bed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699544391191
+status: 4
+tags: []
+user_id: Asma

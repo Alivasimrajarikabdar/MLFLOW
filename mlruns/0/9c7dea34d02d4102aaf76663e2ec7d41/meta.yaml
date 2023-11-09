@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Velocity/MLFLOW1/mlruns/0/9c7dea34d02d4102aaf76663e2ec7d41/artifacts
+end_time: 1699544685295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c7dea34d02d4102aaf76663e2ec7d41
+run_name: omniscient-pug-788
+run_uuid: 9c7dea34d02d4102aaf76663e2ec7d41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699544675877
+status: 3
+tags: []
+user_id: Asma

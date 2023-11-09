@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Velocity/MLFLOW1/mlruns/0/ad5025d529e14a138ce8d917bdf4ecbe/artifacts
+end_time: 1699544646550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad5025d529e14a138ce8d917bdf4ecbe
+run_name: skillful-deer-574
+run_uuid: ad5025d529e14a138ce8d917bdf4ecbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699544636412
+status: 3
+tags: []
+user_id: Asma

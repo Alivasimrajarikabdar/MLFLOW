@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Velocity/MLFLOW1/mlruns/0/39bcbca7309c4d46a06ccc0d1e4e4236/artifacts
+end_time: 1699544364463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39bcbca7309c4d46a06ccc0d1e4e4236
+run_name: tasteful-shoat-884
+run_uuid: 39bcbca7309c4d46a06ccc0d1e4e4236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699544353135
+status: 3
+tags: []
+user_id: Asma

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Velocity/MLFLOW1/mlruns/0/6eadcf753ff541e3a1e3684a28f8f6ef/artifacts
+end_time: 1699544443340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6eadcf753ff541e3a1e3684a28f8f6ef
+run_name: kindly-hen-312
+run_uuid: 6eadcf753ff541e3a1e3684a28f8f6ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699544434103
+status: 3
+tags: []
+user_id: Asma

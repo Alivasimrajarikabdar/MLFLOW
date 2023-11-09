@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Velocity/MLFLOW1/mlruns/0/02fb66a4a70442ceab8c1ab3ab44444d/artifacts
+end_time: 1699544341806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02fb66a4a70442ceab8c1ab3ab44444d
+run_name: painted-frog-547
+run_uuid: 02fb66a4a70442ceab8c1ab3ab44444d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699544329754
+status: 3
+tags: []
+user_id: Asma

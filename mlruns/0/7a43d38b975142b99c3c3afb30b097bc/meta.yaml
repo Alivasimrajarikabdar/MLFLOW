@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Velocity/MLFLOW1/mlruns/0/7a43d38b975142b99c3c3afb30b097bc/artifacts
+end_time: 1699544425631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a43d38b975142b99c3c3afb30b097bc
+run_name: flawless-roo-743
+run_uuid: 7a43d38b975142b99c3c3afb30b097bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699544416632
+status: 3
+tags: []
+user_id: Asma
