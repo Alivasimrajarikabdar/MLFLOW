@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Velocity/MLFLOW1/mlruns/0/77394e23c916496c9d7560910c274911/artifacts
+end_time: 1699535520110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77394e23c916496c9d7560910c274911
+run_name: skittish-boar-234
+run_uuid: 77394e23c916496c9d7560910c274911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699535519979
+status: 3
+tags: []
+user_id: Asma

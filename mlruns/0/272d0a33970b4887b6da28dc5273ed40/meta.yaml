@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Velocity/MLFLOW1/mlruns/0/272d0a33970b4887b6da28dc5273ed40/artifacts
+end_time: 1699536304737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 272d0a33970b4887b6da28dc5273ed40
+run_name: efficient-trout-860
+run_uuid: 272d0a33970b4887b6da28dc5273ed40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699536288625
+status: 3
+tags: []
+user_id: Asma

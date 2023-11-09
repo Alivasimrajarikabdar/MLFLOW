@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Velocity/MLFLOW1/mlruns/0/64d0f09dc7cc450da5b8e7e8bd3411f5/artifacts
+end_time: 1699536499598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64d0f09dc7cc450da5b8e7e8bd3411f5
+run_name: stately-ape-465
+run_uuid: 64d0f09dc7cc450da5b8e7e8bd3411f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699536483582
+status: 3
+tags: []
+user_id: Asma
